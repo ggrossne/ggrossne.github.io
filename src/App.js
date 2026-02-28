@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 import Portfolio from './components/Portfolio';
 
 // If you prefer to manage your own project data you can pass a `projects` prop

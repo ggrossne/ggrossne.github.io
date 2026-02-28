@@ -1,4 +1,6 @@
 .App {
+  /* gradient fading from blue at top to black at bottom */
+  background: linear-gradient(to bottom, blue, black);
   text-align: center;
   position: relative;
   width: 100%;
@@ -45,8 +47,8 @@
   }
 }
 
+/* .App-header isn’t used in the current markup, so styles were moved to .App */
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
