@@ -1,0 +1,57 @@
+.portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.project-card {
+  border: 1px solid #A37B73;
+  border-radius: 8px;
+  width: 300px;
+  color: black;
+  overflow: hidden;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+  background: #DBBEA1;
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.project-info {
+  padding: 0.5rem 1rem;
+}
+
+.project-title {
+  margin: 0;
+}
+
+.project-date {
+  font-style: italic;
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.project-description {
+  margin: 0;
+}
+
+/* Visit button for project links */
+.project-link-btn {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.45rem 0.8rem;
+  background: #003844;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.project-link-btn:hover {
+  background: #2f6d71;
+}
