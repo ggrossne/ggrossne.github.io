@@ -18,6 +18,12 @@
       "sizes": "512x512"
     }
   ],
+  /*
+    If you ever rename or replace the icon file, make sure both the
+    HTML links (above) and the entries here point to the correct path.
+    Browsers often cache favicons aggressively, so refresh or clear
+    cache to see changes.
+  */
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
