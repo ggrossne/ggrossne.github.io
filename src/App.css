@@ -6,7 +6,7 @@
   text-align: center;
   position: relative;
   width: 100%;
-  color: white;
+  color: #A37B73;
   min-height: 100vh;
 }
 
@@ -63,6 +63,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+a:link, a:visited {
+  color: #ccbbb8;
+  text-decoration: none;
 }
 
 h1 {

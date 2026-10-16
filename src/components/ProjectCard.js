@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Portfolio.css';
 
-export default function ProjectCard({ title, date, description, imageUrl, url }) {
+export default function ProjectCard({ title, date, description, imageUrl, url, buttonText = 'Visit' }) {
   const [imageLoaded, setImageLoaded] = useState(true);
 
   return (
@@ -25,7 +25,7 @@ export default function ProjectCard({ title, date, description, imageUrl, url })
             rel="noopener noreferrer"
             className="project-link-btn"
           >
-            Visit
+            {buttonText}
           </a>
         )}
       </div>

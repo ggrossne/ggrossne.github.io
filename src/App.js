@@ -12,8 +12,10 @@ export default function MyApp() {
       <div className="social-buttons">
         <a href="https://www.linkedin.com/in/garrett-grossner/" target="_blank" rel="noopener noreferrer" className="social-btn">LinkedIn</a>
         <a href="https://github.com/ggrossne" target="_blank" rel="noopener noreferrer" className="social-btn">GitHub</a>
+        <a href={`${process.env.PUBLIC_URL}/Grossner_Resume.pdf`} target="_blank" rel="noopener noreferrer" className="social-btn">Resume</a>
       </div>
-      <h1>Garrett's Portfolio</h1>
+      <h1>Garrett Grossner's Portfolio</h1>
+      <h2>ggrossner.work@gmail.com <br /> (707) 349-4492</h2>
       <Portfolio />
     </div>
   );
