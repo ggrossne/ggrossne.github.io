@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 80" role="img" aria-labelledby="title description" shape-rendering="crispEdges">
+  <title id="title">Purple pixel bug walking left</title>
+  <desc id="description">An original side-view game foe with a purple shell, white eyes, gray legs, and two antennae.</desc>
+  <path fill="#08090f" d="M10 72h76v4H10z" opacity=".45"/>
+  <path fill="#090910" d="M20 22h4V10h4V6h4v4h-4v16h-8zm24-4h4V6h4V2h4v4h-4v16h-8z"/>
+  <path fill="#bbb9c7" d="M24 10h4v12h-4zm24-4h4v12h-4z"/>
+  <path fill="#7b58b8" d="M24 6h8v8h-8zm24-4h8v8h-8z"/>
+  <path fill="#090910" d="M12 34h4v-8h8v-8h16v-4h24v4h12v8h8v12h4v16h-8v8H64v4H24v-4h-8v-8H8V42h4z"/>
+  <path fill="#49306e" d="M16 34h4v-8h8v-4h12v-4h24v4h12v8h4v8h4v12h-8v8H60v4H28v-4h-8v-8h-8v-8h4z"/>
+  <path fill="#7650ad" d="M20 34h4v-8h20v-4h20v4h12v8h4v12h-8v8H52v4H28v-4h-8v-8h-4v-8h4z"/>
+  <path fill="#a17ad4" d="M28 26h20v4H28zm28 0h12v4H56zm16 8h4v12h-4z"/>
+  <path fill="#332347" d="M52 32h8v4h-8zm12 8h8v4h-8zm-12 8h12v4H52zm20 0h4v4h-4z"/>
+  <path fill="#090910" d="M8 42h12v4H8zm0 8h12v4H8zM20 30h16v4H20zm20 0h12v4H40z"/>
+  <path fill="#f4f2fa" d="M20 34h16v16H20zm20 0h12v14H40z"/>
+  <path fill="#bcbac8" d="M20 46h16v4H20zm20-2h12v4H40z"/>
+  <path fill="#090910" d="M20 38h6v8h-6zm20 4h6v6h-6z"/>
+  <path fill="#f4f2fa" d="M28 38h4v4h-4z"/>
+  <path fill="#090910" d="M20 58h12v4H20v8h-8v-8h4v-4zm24 4h12v8H40v-4h4zm24-4h12v4h4v8H68v-4h-4v-4h4z"/>
+  <path fill="#aaa9b6" d="M20 62h8v4h-8zm24 4h8v4h-8zm24-4h8v4h4v4H68z"/>
+  <path fill="#f4f2fa" d="M12 66h8v4h-8zm28 4h16v4H40zm28 0h16v4H68z"/>
+</svg>
